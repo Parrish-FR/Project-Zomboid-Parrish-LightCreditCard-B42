@@ -1,0 +1,12 @@
+module Base {
+	item CreditCard
+		{
+			DisplayName = "CreditCard",
+			DisplayCategory = Junk,
+			Type = Normal,	
+			Weight = 0.00,
+			Icon = legendoidpiece,
+			WorldStaticModel = "CreditCard",       
+		}
+	}
+	
